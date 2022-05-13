@@ -1,4 +1,15 @@
-
+- [OSI 7 Layer란?](#osi-7-layer란)
+- [왜 계층 구조?](#왜-계층-구조)
+- [프로토콜이란?](#프로토콜이란)
+- [7계층 (application layer)](#7계층-application-layer)
+- [6계층 (presentation layer)](#6계층-presentation-layer)
+- [5계층 (session layer)](#5계층-session-layer)
+- [4계층 (Transport Layer)](#4계층-transport-layer)
+- [3계층 (network layer)](#3계층-network-layer)
+- [2계층 (data link layer)](#2계층-data-link-layer)
+- [1계층 물리 계층 (phusical layer)](#1계층-물리-계층-phusical-layer)
+- [참고](#참고)
+</br>
 
 # OSI 7 Layer란?
 
@@ -93,11 +104,10 @@
 - 이 계층의 프로토콜은 데이터 링크 계층과 실제 전송 매체에 의존한다.
 - 인터넷의 이더넷도 여러 물리 계층 프로토콜을 갖고 있다.
 - 대표적인 장비로는 허브가 있다.
+</br>
 
 
-
----
-### 참고 
+# 참고 
 
 [https://github.com/ksundong/backend-interview-question](https://github.com/ksundong/backend-interview-question)
 
