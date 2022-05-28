@@ -15,6 +15,8 @@
 - 쿠키, 세션, 토큰
   - [쿠키, 세션 그리고 토큰](https://github.com/q6801/study/blob/main/CS/Network/Cookie%2C%20Session%2C%20Token.md)
   - [OAuth](https://github.com/q6801/study/blob/main/CS/Network/OAuth.md)
+- 지속적인 연결
+  - [persistent connection (http, tcp)](https://github.com/q6801/study/blob/main/CS/Network/Persistent%20Connection.md)
 
 
 ---
