@@ -17,6 +17,9 @@
   - [OAuth](https://github.com/q6801/study/blob/main/CS/Network/OAuth.md)
 - 지속적인 연결
   - [persistent connection (http, tcp)](https://github.com/q6801/study/blob/main/CS/Network/Persistent%20Connection.md)
+- 양방향 통신  
+  - [양방향 통신(polling, long polling, websocket)](https://github.com/q6801/study/blob/main/CS/Network/Full%20Duplex%20Connection.md)
+  - [웹소켓 (WebSocket)](https://github.com/q6801/study/blob/main/CS/Network/WebSocket.md)
 
 
 ---
