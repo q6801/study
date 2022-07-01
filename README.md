@@ -13,7 +13,7 @@
   - [TCP 신뢰 전송 (흐름 제어, 혼잡 제어)](https://github.com/q6801/study/blob/main/CS/Network/TCP%20reliable%20delivery.md)
 
 - IP
-  - [IP](https://github.com/q6801/study/blob/main/CS/Network/Ip%20protocol.md)
+  - [IP 프로토콜](https://github.com/q6801/study/blob/main/CS/Network/Ip%20protocol.md)
 
 - 쿠키, 세션, 토큰
   - [쿠키, 세션 그리고 토큰](https://github.com/q6801/study/blob/main/CS/Network/Cookie%2C%20Session%2C%20Token.md)
@@ -24,6 +24,8 @@
   - [양방향 통신(polling, long polling, websocket)](https://github.com/q6801/study/blob/main/CS/Network/Full%20Duplex%20Connection.md)
   - [웹소켓 (WebSocket)](https://github.com/q6801/study/blob/main/CS/Network/WebSocket.md)
 
+- HTTP
+ - [HTTP란?](https://github.com/q6801/study/blob/main/CS/Network/HTTP.md)
 
 ---
 
