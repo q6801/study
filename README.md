@@ -12,6 +12,9 @@
   - [TCP 3, 4 handshake](https://github.com/q6801/study/blob/main/CS/Network/TCP%203%2C%204%20handshake.md)
   - [TCP 신뢰 전송 (흐름 제어, 혼잡 제어)](https://github.com/q6801/study/blob/main/CS/Network/TCP%20reliable%20delivery.md)
 
+- IP
+  - [IP](https://github.com/q6801/study/blob/main/CS/Network/Ip%20protocol.md)
+
 - 쿠키, 세션, 토큰
   - [쿠키, 세션 그리고 토큰](https://github.com/q6801/study/blob/main/CS/Network/Cookie%2C%20Session%2C%20Token.md)
   - [OAuth](https://github.com/q6801/study/blob/main/CS/Network/OAuth.md)
