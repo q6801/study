@@ -26,7 +26,8 @@
 
 - HTTP
   - [HTTP란?](https://github.com/q6801/study/blob/main/CS/Network/HTTP.md)
-
+  - [HTTPS란?](https://github.com/q6801/study/blob/main/CS/Network/HTTPS.md)
+  - [CORS](https://github.com/q6801/study/blob/main/CS/Network/CORS.md)
 ---
 
 ### Spring
