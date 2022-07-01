@@ -25,7 +25,7 @@
   - [웹소켓 (WebSocket)](https://github.com/q6801/study/blob/main/CS/Network/WebSocket.md)
 
 - HTTP
- - [HTTP란?](https://github.com/q6801/study/blob/main/CS/Network/HTTP.md)
+  - [HTTP란?](https://github.com/q6801/study/blob/main/CS/Network/HTTP.md)
 
 ---
 
