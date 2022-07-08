@@ -32,3 +32,9 @@
 
 ### Spring
 - [스프링 framework 특징](https://github.com/q6801/study/blob/main/CS/Spring/Spring%20framework%20features.md)
+
+---
+
+### Java
+- [Java API](https://github.com/q6801/study/blob/main/CS/Java/java%20api.md)
+- [JRE와 JDK](https://github.com/q6801/study/blob/main/CS/Java/jdk%20jre.md)
